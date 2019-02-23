@@ -1,0 +1,46 @@
+[{
+		anomes: "2018/07",
+		uf: "sp",
+		siafi: "34010",
+		municipio: "Bauru",
+		nis: 101010011,
+		beneficiario: "Marcio",
+		valor: 1000
+	},
+	{
+		anomes: "2017/05",
+		uf: "rj",
+		siafi: "34015",
+		municipio: "Niteroi",
+		nis: 101010041,
+		beneficiario: "Joao",
+		valor: 1050
+	},
+	{
+		anomes: "2015/01",
+		uf: "pe",
+		siafi: "35010",
+		municipio: "Queiroz",
+		nis: 1010100476,
+		beneficiario: "Jose",
+		valor: 1200
+	},
+	{
+		anomes: "2016/12",
+		uf: "sp",
+		siafi: "34010",
+		municipio: "Bauru",
+		nis: 11234010011,
+		beneficiario: "Ana",
+		valor: 1000
+	},
+	{
+		anomes: "2011/07",
+		uf: "sp",
+		siafi: "34012",
+		municipio: "Macatuba",
+		nis: 1010100345,
+		beneficiario: "Roberto",
+		valor: 950
+	}
+]

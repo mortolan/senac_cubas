@@ -1,0 +1,646 @@
+1550939871798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EcEr4GhOcBlF"
+
+(firefox:773): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:773): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550939897682	Marionette	INFO	Listening on port 44361
+1550939897721	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 773, Gecko_IOThread] WARNING: pipe error (120): Conexão fechada pela outra ponta: file /home/abuild/rpmbuild/BUILD/firefox-60.5.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1550940423464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b9YgJdV4BTJK"
+
+(firefox:1706): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1706): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550940447287	Marionette	INFO	Listening on port 39437
+1550940447346	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 1959, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /home/abuild/rpmbuild/BUILD/firefox-60.5.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1550940661605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OMTRZ6kt0Sct"
+
+(firefox:2562): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2562): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550940685300	Marionette	INFO	Listening on port 33775
+1550940685389	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 2800, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /home/abuild/rpmbuild/BUILD/firefox-60.5.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1550941090755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xo6XxEWrXLvE"
+
+(firefox:3393): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3393): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550941115624	Marionette	INFO	Listening on port 41213
+1550941115649	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1550941250673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OfTj77N8mNMB"
+
+(firefox:3911): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3911): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550941275472	Marionette	INFO	Listening on port 39749
+1550941275701	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: jar:file:///usr/lib64/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1006: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1550941321618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sNI2AwI1OaGn"
+
+(firefox:4280): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4280): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550941346905	Marionette	INFO	Listening on port 35981
+1550941347001	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: https://js.hsleadflows.net/leadflows.js, line 1: NS_ERROR_UNEXPECTED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1550942290010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2DbkvEXyjSzH"
+
+(firefox:6151): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6151): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550942316956	Marionette	INFO	Listening on port 46357
+1550942317002	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Child 6365, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /home/abuild/rpmbuild/BUILD/firefox-60.5.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1550942628635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GIGxGVQ9DzYE"
+
+(firefox:6916): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6916): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550942653058	Marionette	INFO	Listening on port 40353
+1550942653134	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 6916, Gecko_IOThread] WARNING: pipe error (102): Conexão fechada pela outra ponta: file /home/abuild/rpmbuild/BUILD/firefox-60.5.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1550942881153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l1n5gqvgHzUR"
+
+(firefox:7477): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7477): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550942905372	Marionette	INFO	Listening on port 35697
+1550942905435	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 7477, Gecko_IOThread] WARNING: pipe error (108): Conexão fechada pela outra ponta: file /home/abuild/rpmbuild/BUILD/firefox-60.5.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1550943089177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EmlhGOxeEHH1"
+
+(firefox:7990): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7990): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550943113610	Marionette	INFO	Listening on port 40433
+1550943113665	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 8200, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /home/abuild/rpmbuild/BUILD/firefox-60.5.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1550943176901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.itBoA1uQ02UP"
+
+(firefox:8392): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8392): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550943201726	Marionette	INFO	Listening on port 38703
+1550943201790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550943305590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6Rlf23WG53Jy"
+
+(firefox:8790): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8790): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550943329958	Marionette	INFO	Listening on port 40911
+1550943329973	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1550943462450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nlGRF0YuWJNY"
+
+(firefox:9251): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9251): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550943486917	Marionette	INFO	Listening on port 37875
+1550943486954	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9251, Gecko_IOThread] WARNING: pipe error (102): Conexão fechada pela outra ponta: file /home/abuild/rpmbuild/BUILD/firefox-60.5.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1550943640280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JoDPJerVtq3I"
+
+(firefox:9717): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9717): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550943664669	Marionette	INFO	Listening on port 42769
+1550943664765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550943696306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p9oiCJS6vnbY"
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 9717, Gecko_IOThread] WARNING: pipe error (110): Conexão fechada pela outra ponta: file /home/abuild/rpmbuild/BUILD/firefox-60.5.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:10088): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10088): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550943720658	Marionette	INFO	Listening on port 43823
+1550943720696	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1550944076087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SkhJq3lJsOVl"
+
+(firefox:10766): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10766): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550944100493	Marionette	INFO	Listening on port 33367
+1550944100583	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1550944524153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aX6aXmv0GlcC"
+
+(firefox:11514): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11514): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550944548783	Marionette	INFO	Listening on port 34139
+1550944548840	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1550944634710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZbywLjYQH4rb"
+
+(firefox:11969): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11969): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/marcio/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] GPU driver check - Your driver is supported, hardware acceleration enabled.
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/marcio/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[install-dependency] Downloading and running wine-silverlight5.1-installer.
+/usr/share/pipelight/install-dependency: linha 208: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+/usr/share/pipelight/install-dependency: linha 212: /usr/lib/wine-pipelight/bin/wine/bin/wine: Arquivo ou diretório não encontrado
+[install-dependency] ERROR: Installer for wine-silverlight5.1-installer did not run correctly or was aborted.
+[install-dependency] ERROR: Execution of wine-silverlight5.1-installer failed.
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:384:checkPluginInstallation(): Plugin installer did not run correctly (exitcode = 1).
+[PIPELIGHT:LIN:silverlight5.1] basicplugin.c:108:attach(): plugin not correctly installed - aborting.
+1550944660911	Marionette	INFO	Listening on port 34329
+1550944660996	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 12183, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /home/abuild/rpmbuild/BUILD/firefox-60.5.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

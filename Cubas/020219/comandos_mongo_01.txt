@@ -1,0 +1,79 @@
+https://goo.gl/wha7iR
+
+Insert commands
+db.inventory.insertMany([
+   { item: "journal", qty: 25, status: "A",
+   	size: { h: 14, w: 21, uom: "cm" }, tags: [ "blank", "red" ] },
+   { item: "notebook", qty: 50, status: "A",
+   	size: { h: 8.5, w: 11, uom: "in" }, tags: [ "red", "blank" ] },
+   { item: "paper", qty: 100, status: "D",
+   	size: { h: 8.5, w: 11, uom: "in" }, tags: [ "red", "blank", "plain" ] },
+   { item: "planner", qty: 75, status: "D",
+   	size: { h: 22.85, w: 30, uom: "cm" }, tags: [ "blank", "red" ] },
+   { item: "postcard", qty: 45, status: "A",
+   	size: { h: 10, w: 15.25, uom: "cm" }, tags: [ "blue" ] }
+]);
+
+
+
+Search commands
+db.inventory.find( {} )
+db.inventory.find( { status: "D" } )
+db.inventory.find( { size: { h: 14, w: 21, uom: "cm" } } )
+db.inventory.find( { "size.uom": "in" } )
+
+
+
+update commands
+db.inventory.update(
+	{ item: "paper" },
+	{ $set: { qty: 11}}
+)
+db.inventory.update(
+	{ tags: "red" },
+	{ $set: { qty: 200}}
+)
+
+
+
+delete commands
+db.inventory.deleteMany({})
+db.inventory.deleteMany({ status : "A" })
+db.inventory.deleteOne( { status: "D" } )
+
+
+
+
+Pesquisa Avançada - Advanced Search
+db.inventory.find(
+{ "qty" : {$in: [100, 50]} }
+)
+
+db.inventory.distinct( "qty" )
+
+db.inventory.find( {$or:
+  [
+{"qty" : {$eq: 50}},
+{“qty" : {$eq: 100}}
+]})
+
+db.inventory.find({"item": /TE/i} )
+
+
+
+New  Connection
+user: senacbauru
+password: zaq12wsx
+
+Cluster
+cluster0-shard-00-00-jkxo0.mongodb.net:27017
+cluster0-shard-00-01-jkxo0.mongodb.net:27017
+cluster0-shard-00-02-jkxo0.mongodb.net:27017
+
+db.bolsafamilia.find(
+{"MUNICIPIO" : "BAURU"}
+).explain('executionStats')
+
+db.bolsafamilia.ensureIndex( { "MUNICIPIO" : 1  } )
+
+
