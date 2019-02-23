@@ -1,0 +1,55 @@
+Modelos aplicações baseado no conceito redes neurais
+
+XG Boosting /Boost (mais custoso)  <--->   Randon Forest (menos custoso a nivel de hardware)
+
+- Utilizado em metodos de classificação e/ou regressão.
+
+
+Redes Neurais (não muito acesita pelos matematicos, determinada como caixa preta.)
+
+- Saida basicamente determinada em uma matriz, com ajustes de pesos, baseado nos treinamentos aplicados na mesma com um conjunto de dados.
+
+Camada Entrada, Oculta e Saida.
+
+* Tipos
+
+* Perceptron (sera utilzada) : Ideia classica do sistema nervoso.  É a topologia, a base do ambiente.
+	- Modelo MLP : Multi layer Perceptron
+	- Back Propagation
+	- Ciclos de Época
+	
+	Entrada (features)		Oculta						Saida (y = venda)
+	x1						(podem ser N camadas)
+	x2
+	x3
+
+* Adalaine : Nao muito utilizada.
+
+
+* Rede Neural Recorrente (Series Temporais)
+	- Comportamento com tecnicas de calculos estocasticos
+	- Valores posteriores tem uma dependencia com os valores anteriores. Linha serie temporal.
+	- Similaridade com a cadeia de Markov.(Porem markov trabalha com calculos probabilisticos).
+
+
+* Rede Neural Convolucional
+	- Muita usada em deep learning
+	- Problemas com imagem e video.
+		
+
+* Rede Neural Graph Convolucional Network
+	- Redes baseadas em grafos.
+	- Utilizada para solução de sistemas complexos.
+	- Link prediction 
+	- Node Classification
+
+
+* Tecnicas para gerar Topologia de Rede Neural
+	- Algoritimos Geneticos : estimar topologia de rede neural e aproximanção dos pesos. 
+	- Abordagem evolucionaria.
+	
+
+
+
+
+		

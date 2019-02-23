@@ -1,0 +1,35 @@
+Exibição do Vídeo
+
+• Identificar:
+
+- Tema;
+	Captação de energia Solar em pequenos espaços.
+
+- Problema;
+	Como captar energia solar em espaço reduzido ?
+
+- Objetivo;
+	Construir um painel para captar energia solar em espaço reduzido.
+	Fazer medições de resultado.
+	(Precisa responder a pergunta acima).
+	Em media 1 objetivo.
+		- Geral / Complementar(Opcional).
+
+- Justificativa;
+	Criou o captador para beneficio dele.
+	
+- Referencial Teórico;
+	Sequencia de Fibonacci
+	Captação de energia solar
+
+- Metodologia;
+	Pesquisas na internet
+	Descreve como foi feito todo o processo.
+	O Objetivo esta relacionado com a metodologia.
+
+- Resultados.
+	Precisa responder o topico "Problema".
+	Eficiencia do modelo construido foi um "plus".
+	Mostrar as limitações.
+	
+	

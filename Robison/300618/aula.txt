@@ -1,0 +1,39 @@
+Aula 30062018
+
+Classificador Naive Bayes
+
+- É uma classificador estatistico baseado no teorema de Bayes.
+
+Naive (ingenuo).
+
+* Bayesiano Classico 
+	- Base na probabilidade condicional (os eventos tem uma relação entre eles).
+		- Exemplo : Qual a probabilidade de eu jogar futebol hoje, tendo que esta chovendo.
+		- P (A | B)
+		- P(Jogar=SIM | Chovendo=SIM, Febre=SIM) 
+		- Baseado em um ambiente somatorio, onde o final sempre deverá ser 100% (1).
+
+* Bayesiano Naive (ingenuo)
+	- Independentes dos eventos.
+	- Baseado em uma hipotese produtoria.
+	- Eventos tratados independentes, onde o valor final não obrigatoriamente é 100% devido ao tratamento Produtorio.
+	
+* Logica Fussy
+	- Outro teorema, porem mesclado com o Bayesiano.
+	
+	
+* Analise de Medidas de Dispersão 
+		- Calculo com estudo de Momento / Kurtose.
+	
+	
+*** Analise de Distribuição do Dados	
+	
+*Distribuição Gausiana
+	- Media = 0 
+	- Desvio Padrão = 1
+	
+* Distribuição Uniforme
+	- Exemplo : Qual a probalidade de uma moeda cair em cara / coroa.
+	
+* Log Normal 
+	- É Assimetrica a direita ou esquerda.
